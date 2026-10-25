@@ -1,13 +1,58 @@
+<div align="center">
+
 # Halo! Aku Ipar Hamni 👋
-Computer Engineering Student | Embedded Systems, IoT & Backend Explorer
 
-### 🛠 Tech Stack
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Embedded+Systems+%26+IoT+Enthusiast;Backend+%26+System+Programming)](https://git.io/typing-svg)
 
-### 📊 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prhmni&show_icons=true&theme=tokyonight)
+<p align="center">
+  Fokus pada perancangan sistem tertanam, pemrograman tingkat rendah, dan arsitektur backend yang efisien.
+</p>
+
+---
+
+</div>
+
+### ⚡ Tentang Saya
+* 🎓 Mahasiswa **Teknik Komputer** di **Universitas Bina Bangsa Getsempena**.
+* 🔭 Tertarik pada **IoT, Embedded Systems, Linux**, dan **Backend Development**.
+* 🛠 Suka mengeksplorasi integrasi antara perangkat keras (*hardware*) dan perangkat lunak (*software*).
+
+---
+
+### 🛠 Tech Stack & Tools
+
+**Languages & Systems**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux" />
+</a>
+
+<br/>
+
+**Web & Backend Development**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js" />
+</a>
+
+<br/>
+
+**Hardware & Developer Tools**  
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode" />
+</a>
+
+---
+
+### 📊 Aktivitas & Statistik GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prhmni&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prhmni&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
