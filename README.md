@@ -13,7 +13,7 @@
 </div>
 
 ### ⚡ Tentang Saya
-* 🎓 Mahasiswa **Teknik Komputer** di **Universitas Bina Bangsa Getsempena**.
+* 🎓 Mahasiswa **Ilmu Komputer** di **Universitas Bina Bangsa Getsempena**.
 * 🔭 Tertarik pada **IoT, Embedded Systems, Linux**, dan **Backend Development**.
 * 🛠 Suka mengeksplorasi integrasi antara perangkat keras (*hardware*) dan perangkat lunak (*software*).
 
